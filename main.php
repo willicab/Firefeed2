@@ -24,7 +24,7 @@ if (/Firefox\//.test(ua)) {
 }
                 $('#flipReaded').val('1').change();
                 refreshSelectCategory("selectCategory");
-                if (localStorage['logged'] == 'false' && localStorage['actualPage'] != 'signup') {
+                if ((localStorage['logged'] == 'false' || localStorage['logged'] == undefined) && localStorage['actualPage'] != 'signup') {
                     $.mobile.changePage("#login", {reverse: false,});
                 } else {
 //                    refreshSelectCategory("selectCategory");
