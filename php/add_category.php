@@ -4,9 +4,7 @@
     
     $user_id = mysql_real_escape_string($_POST['user_id']);
     $category = mysql_real_escape_string($_POST['category']);
-    
-#    $user_id = 3;
-#    $category = 'Ocio';
+    if ($category == '') $category = 'Uncategorized';
 
     $category_id = id_category($category);
     if ($category_id == -1) {

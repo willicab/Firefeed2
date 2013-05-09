@@ -5,10 +5,9 @@
     $id_user = $_POST['id_user'];
     $subscription = $_POST['subscription'];
     $category = $_POST['category'];
-    
     # Agrega la categoría si existe
     $id_category = id_category($category);
-#    echo "id_category: $id_category\n";
+
     if ($id_category == -1) {
         $sql = "INSERT INTO `categories` VALUES (null, '$category');";
         mysql_query($sql, $hconn); 
