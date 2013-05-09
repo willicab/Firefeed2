@@ -1,0 +1,30 @@
+{
+  "name": "Firefeed",
+  "description": "The feeds reader",
+  "launch_path": "/main.php",
+  "developer": {
+    "name": "William Cabrera",
+    "url": "http://willicab.com.ve"
+  },
+  "permissions": [
+
+  ],
+  "locales": {
+    "en-US": {
+      "description": "The feeds reader"
+    },
+    "es": {
+      "description": "El lector de feeds"
+    }
+  },
+  "default_locale": "es",
+  "icons": {
+    "128": "/img/icon-128.png"
+  },
+  "fullscreen": "true",
+  "permissions": {
+    "storage": {
+      "description": "Required for storage app in device"
+    }
+  }
+}

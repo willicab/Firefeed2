@@ -1,0 +1,4 @@
+<?php
+    $hconn = mysql_connect("localhost", "USER", "PASSWORD"); 
+    mysql_select_db("DATABASE", $hconn); 
+?>

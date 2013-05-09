@@ -1,0 +1,70 @@
+{
+    "title":"El portal de willicab",
+    "description":"",
+    "copyright":"",
+    "logo":"",
+    "link":"http:\/\/willicab.gnu.org.ve",
+    "items":[
+        {
+            "title":"Prueba de ping\u00fcino con el sensor hc-sr04 y LCD",
+            "link":"http:\/\/willicab.gnu.org.ve\/prueba-de-pinguino-con-el-sensor-hc-sr04-y-lcd-2\/",
+            "author":"",
+            "published":1364948480,
+            "content":"Hace un tiempo ya sub\u00ed este video a youtube donde, con ayuda del para Joan, logramos mostrar la distancia a un obst\u00e1culo usando el sensor HC-SR04 Pero les deb\u00eda el c\u00f3digo, ac\u00e1 se los dejo \/\/ Los pines a donde … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"Firefox OS ya es oficial y Venezuela ser\u00e1 uno de los primeros mercados",
+            "link":"http:\/\/willicab.gnu.org.ve\/firefox-os-ya-es-oficial-y-venezuela-sera-uno-de-los-primeros-mercados\/",
+            "author":"",
+            "published":1361820347,
+            "content":"Hace poco m\u00e1s de un a\u00f1o publiqu\u00e9 un articulo donde daba Un vistazo a Gaia, la interfaz del sistema operativo Boot to Gecko de Mozilla, un sistema operativo que en ese momento estaba en fase muy temprana pero que promet\u00eda … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"Cat\u00e1logo del patrimonio cultural venezolano",
+            "link":"http:\/\/willicab.gnu.org.ve\/catalogo-del-patrimonio-cultural-venezolano\/",
+            "author":"",
+            "published":1360853164,
+            "content":"He terminado de subir el cat\u00e1logo del patrimonio cultural venezolano a mi Google Drive para que lo descarguen libremente, asumiendo que el art\u00edculo 325 de la LOTT tiene caracter de retroactividad, dicho art\u00edculo dice lo siguiente: Invenciones, innovaciones y mejoras … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"Gambas 3.4 ha sido liberado!",
+            "link":"http:\/\/willicab.gnu.org.ve\/gambas-3-4-ha-sido-liberado\/",
+            "author":"",
+            "published":1360779871,
+            "content":"Esta nueva versi\u00f3n corrige unos 240 bugs y a\u00f1ade cerca de 270 nuevas caracter\u00edsticas: Mejor soporte a subversion en el IDE. Soporte a parches en el IDE. Nuevo componente gb.args que reemplaza a gb.option. Nuevo componente gb.maps que proporciona mapas … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"Nuevo proyecto: GbBot, bot de soporte para IRC y XMPP",
+            "link":"http:\/\/willicab.gnu.org.ve\/nuevo-proyecto-gbbot-bot-de-soporte-para-irc-y-xmpp\/",
+            "author":"",
+            "published":1350403376,
+            "content":"La Historia Hace un tiempo inici\u00e9 un proyecto para crear un Bot IRC con gambas, la idea inicial era hacer un bot que ejecutara comandos, lanzara frases aleatorias cada cierto tiempo y respondiera a usuarios que lo mencionaran, todo esto … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"As\u00ed pas\u00e9 el 25 de Mayo",
+            "link":"http:\/\/willicab.gnu.org.ve\/asi-pase-el-25-de-mayo\/",
+            "author":"",
+            "published":1338481173,
+            "content":"Casualmente el 25 de Mayo cay\u00f3 d\u00eda de CNSL en Coro, y siendo este d\u00eda el d\u00eda del orgullo friki aprovech\u00e9 para lucirme un rato. Les cuento que tambi\u00e9n esa noche fui a un toque de Dame pa’ matala, tambi\u00e9n … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"A 5 a\u00f1os de la nacionalizaci\u00f3n de CANTV, \u00bfhay algo que celebrar?",
+            "link":"http:\/\/willicab.gnu.org.ve\/a-5-anos-de-la-nacionalizacion-de-cantv-hay-algo-que-celebrar\/",
+            "author":"",
+            "published":1338419273,
+            "content":"(El siguiente post esta hecho a modo de catarsis, lo escribo como me sali\u00f3) La semana pasada CANTV realiz\u00f3 una serie de eventos para celebrar 5 a\u00f1os de su nacionalizaci\u00f3n, se supone que al ser ahora un empresa del estado, … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"Componente NCurses en Gambas 3",
+            "link":"http:\/\/willicab.gnu.org.ve\/componente-ncurses-en-gambas-3\/",
+            "author":"",
+            "published":1337709625,
+            "content":"Aunque este componente est\u00e1 aun en desarrollo promete bastante, es un binding de la librer\u00eda NCurses, esta es una librer\u00eda que provee una API para desarrollar interfaces gr\u00e1ficas de texto, algo como esto: Si est\u00e1s probando la versi\u00f3n de desarrollo … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"Nuevo Proyecto: Generador de tareas para Tasksel o Canaima Tareas",
+            "link":"http:\/\/willicab.gnu.org.ve\/nuevo-proyecto-generador-de-tareas-para-tasksel-o-canaima-tareas\/",
+            "author":"",
+            "published":1337701327,
+            "content":"Una de las cosa que hice durante la 6\u00b0 Cayapa Canaima fue el desarrollo de un asistente para la creaci\u00f3n de tareas, esta sirve tanto para tasksel como para canaima-tareas, cualquier error no duden en reportarlo. Puedes entrar al repositorio … Sigue leyendo →<\/span><\/a>"
+        },{
+            "title":"Cuanto derecho tiene la gente a reclamar? o la necedad del venezolano de querer dejarlo todo a \u00faltima hora",
+            "link":"http:\/\/willicab.gnu.org.ve\/cuanto-derecho-tiene-la-gente-a-reclamar-o-la-necedad-del-venezolano-de-querer-dejarlo-todo-a-ultima-hora\/",
+            "author":"",
+            "published":1334542720,
+            "content":"Estas \u00faltimas dos semanas he estado viendo en el noticiero y le\u00eddo en distintas webs diversos grupos denunciando diferentes irregularidades en el proceso de registro electoral, que varios centros no abr\u00edan o no cumpl\u00edan el horario, o que el tiempo … Sigue leyendo →<\/span><\/a>"
+        }
+    ]
+}
